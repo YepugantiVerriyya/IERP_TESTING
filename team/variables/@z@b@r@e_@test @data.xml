@@ -1,0 +1,5 @@
+<variable-file delimiters="," filename="variables/ZBRE_Selections.csv" name="ZBRE_Test Data" offset="1" order="1" policy="5" range="1" uid="ab0d4489-c3ac-4795-987a-c3c492446829" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="End Date" number="2"/>
+<column name="Start Date" number="1"/>
+<column name="WBS Element" number="0"/>
+</variable-file>

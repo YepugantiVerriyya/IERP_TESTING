@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="99_Time and Material contract_Logout" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="b484b7cb-c871-4ee4-922c-a1223ae96918" weightsEnabled="false">
+    <weighted-embedded-action uid="b4f910a9-47a2-4e1b-8371-d22de074f442"/>
+    <weighted-embedded-action uid="eb1c78d4-edf4-4ce2-b1ce-dc42df6868b8"/>
+    <weighted-embedded-action uid="1a21cea4-28db-47bb-af9a-0ccefd512c0b"/>
+    <weighted-embedded-action uid="b45a6792-42e7-415f-9d9e-4fc430973253"/>
+    <weighted-embedded-action uid="f096616d-bde1-4f2b-822a-b06cd0b61e1a"/>
+</basic-logical-action-container>

@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="09_Time and Material contract_Click On Go" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="95a88b1c-1484-42a9-b7ad-86d322f5a36c" weightsEnabled="false">
+    <weighted-embedded-action uid="5ddf5c64-6ef9-4166-8aa7-ac8df0572603"/>
+    <weighted-embedded-action uid="b10518f0-86f9-4c94-a2cb-0a418ef5693f"/>
+    <weighted-embedded-action uid="9685ab43-e311-4cea-9738-9d8f2fc50eee"/>
+    <weighted-embedded-action uid="5879dac2-fdde-48b0-9ee5-cd1445b173fd"/>
+</basic-logical-action-container>

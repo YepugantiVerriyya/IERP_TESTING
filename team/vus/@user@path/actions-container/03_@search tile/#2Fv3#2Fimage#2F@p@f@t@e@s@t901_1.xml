@@ -1,0 +1,54 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/v3/image/PFTEST901_1" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/0740c6e9-4ad5-481d-b197-d8c6f291e898.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="0740c6e9-4ad5-481d-b197-d8c6f291e898">
+    <embedded-action>0b6ca4ab-d28b-4697-994c-14f60fb18819</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_6a0f17e4-959c-48a5-adb4-94c14f79d8f7.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/v3/image/PFTEST901" path="/v3/image/PFTEST901"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/0740c6e9-4ad5-481d-b197-d8c6f291e898.zip"
+    recordedResponseCode="404" responseSize="37"
+    serverUid="w3-unifiedprofile-api.dal1a.cirrus.ibm.com"
+    slaProfileEnabled="false" uid="0b6ca4ab-d28b-4697-994c-14f60fb18819" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a951d6ca-49c2-46be-8f34-b2188eb46139</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a951d6ca-49c2-46be-8f34-b2188eb46139.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="type"
+        recordRawValue="bp" separator="=" value="bp" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="CoreID6=56769253188517072072729&amp;ci=51040000|IBMTESTW3; MYSAPSSO2=AjQxMDMBABhQAEYAVABFAFMAVAA5ADAAMQAgACAAIAACAAYxADAAMAADABBaAEMAMQAgACAAIAAgACAABAAYMgAwADIANAAwADYAMQAyADEAMAAwADYABQAEAAAACAYAAlgACQACRQD%2fAVYwggFSBgkqhkiG9w0BBwKgggFDMIIBPwIBATELMAkGBSsOAwIaBQAwCwYJKoZIhvcNAQcBMYIBHjCCARoCAQEwcDBkMQswCQYDVQQGEwJERTEcMBoGA1UEChMTU0FQIFRydXN0IENvbW11bml0eTETMBEGA1UECxMKU0FQIFdlYiBBUzEUMBIGA1UECxMLSTAwMjEyODc4NzUxDDAKBgNVBAMTA1pDMQIICiAjCScJKQEwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTI0MDYxMjEwMDYxNlowIwYJKoZIhvcNAQkEMRYEFIuCXWgL3lWuL9MJb%2fxb4tlBiuetMAkGByqGSM44BAMELjAsAhRJJtOTeLeBksuFWwauplthtWxJrQIUdJOFAglKVi342hjhqjQbIz1oecE%3d"/>
+    <header name="Host" value="w3-unifiedprofile-api.dal1a.cirrus.ibm.com"/>
+    <header name="Referer" value="https://ierp-zc1.pce.ibm.com:44391/"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;125&quot;, &quot;Chromium&quot;;v=&quot;125&quot;, &quot;Not.A/Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 404 Not Found&#xd;
+vary: Origin&#xd;
+content-type: application/json; charset=utf-8&#xd;
+content-length: 37&#xd;
+server-timing: dtSInfo;desc="0", dtRpid;desc="-1648576556"&#xd;
+set-cookie: dtCookie=v_4_srv_4_sn_1DFCD5AA15C838B8C1EB108B5A7F3AE8_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_0_rcs-3Acss_0; Path=/; Domain=.ibm.com&#xd;
+date: Wed, 12 Jun 2024 10:06:22 GMT&#xd;
+keep-alive: timeout=5&#xd;
+set-cookie: 1cdcdfc393d3af10db7bd6b380aff912=e6eef109dba267cfae4414c40f8c0545; path=/; HttpOnly; Secure; SameSite=None&#xd;
+x-content-type-options: nosniff&#xd;
+strict-transport-security: max-age=31536000&#xd;
+referrer-policy: no-referrer-when-downgrade</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,25 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="04_CLick on Tail" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="72d4a3f9-859d-46d9-be20-ea2c0ae0e591" weightsEnabled="false">
+    <weighted-embedded-action uid="d25dbfee-8aae-4914-ad77-511db90c23d6"/>
+    <weighted-embedded-action uid="946e44ff-b87e-4a39-95b4-4cd6074c525f"/>
+    <weighted-embedded-action uid="0ce767ee-106a-4ff7-ac2b-7738cfcdd9cd"/>
+    <weighted-embedded-action uid="8bf208c4-0792-4044-a89f-084e0748633a"/>
+    <weighted-embedded-action uid="eb76f3be-7b0b-4f00-b0d0-571992bc87fd"/>
+    <weighted-embedded-action uid="b2d1cb18-0403-45e1-9052-0e1e2da954ae"/>
+    <weighted-embedded-action uid="0daf9b4f-813a-40d0-b796-86acdf17434f"/>
+    <weighted-embedded-action uid="267a347b-a079-4d13-b076-c4cb03932f4a"/>
+    <weighted-embedded-action uid="88cc6684-8c6a-4651-ae22-57a45afbce9f"/>
+    <weighted-embedded-action uid="58ae8fc4-7902-4c8b-9b48-cfc52d7a1cfd"/>
+    <weighted-embedded-action uid="8124b47e-2753-4e50-bee8-285c0728d231"/>
+    <weighted-embedded-action uid="843cb410-6bb4-4d94-86c3-3b1611e0ec13"/>
+    <weighted-embedded-action uid="aca609c5-e6c1-4f21-997d-b9d9ede5150c"/>
+    <weighted-embedded-action uid="94a6f1ab-db44-428d-bee0-95268c7725a2"/>
+    <weighted-embedded-action uid="4f45889b-ee87-4069-8bbc-08cd3a63a28a"/>
+    <weighted-embedded-action uid="184a4076-027d-44ab-b5f0-f2e7068984b7"/>
+    <weighted-embedded-action uid="779e62dc-51b0-45b0-a575-cb1334fe0a44"/>
+    <weighted-embedded-action uid="45944a9a-bb5d-477f-a88f-faa7131f3be5"/>
+    <weighted-embedded-action uid="201aca02-ae7a-4688-832c-7377f12b1080"/>
+    <weighted-embedded-action uid="34728e39-ef3f-45f3-967c-39d4374a900b"/>
+</basic-logical-action-container>

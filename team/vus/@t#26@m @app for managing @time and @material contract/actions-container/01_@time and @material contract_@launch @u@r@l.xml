@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="01_Time and Material contract_Launch URL" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="bf4862ca-eab6-481d-ac17-5c8cd225063b" weightsEnabled="false">
+    <weighted-embedded-action uid="3fed7318-8e8d-44ae-a2aa-027ac16b99c9"/>
+</basic-logical-action-container>

@@ -1,0 +1,10 @@
+GET TMS_WBS_VHSet/$count?sap-client=100&search-focus=Posid&search=C.24 HTTP/1.1
+sap-cancel-on-close: true
+sap-contextid-accept: header
+Accept: text/plain, */*;q=0.5
+x-csrf-token: LYICDHfgonPjnrBRjpa5ug==
+Accept-Language: en
+DataServiceVersion: 2.0
+MaxDataServiceVersion: 2.0
+X-Requested-With: XMLHttpRequest
+

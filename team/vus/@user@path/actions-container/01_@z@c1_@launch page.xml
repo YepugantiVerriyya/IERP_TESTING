@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="01_ZC1_Launch page" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="23edfdc6-f217-43a0-956f-bb37b5b715ff" weightsEnabled="false">
+    <weighted-embedded-action uid="11fb829e-95b2-4826-905a-7aa64dae23f4"/>
+    <weighted-embedded-action uid="86e740db-c908-49ce-a49b-0758ad067c63"/>
+    <weighted-embedded-action uid="6ff2044d-75c2-496a-b3b4-b36bf03ede57"/>
+    <weighted-embedded-action uid="c9055563-44ad-4689-90c1-cd066b158ce3"/>
+</basic-logical-action-container>

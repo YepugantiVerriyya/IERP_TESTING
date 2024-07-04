@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="03_Time and Material contract_Search Tile" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="2b0badc3-556b-48bc-ac7d-4a8bcac0091e" weightsEnabled="false">
+    <weighted-embedded-action uid="99007e71-bd20-493e-ac21-f6373ba2ebf4"/>
+    <weighted-embedded-action uid="07d62de1-ebd6-4ef1-8879-8656c38fedf8"/>
+    <weighted-embedded-action uid="fe7ab8da-7541-48da-94d2-bed24ae789ce"/>
+    <weighted-embedded-action uid="c55d477c-733c-499a-b3be-91a37f81707d"/>
+</basic-logical-action-container>

@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="10_Time and Material contract_Click On OK" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="121a31db-ee39-4b8e-872d-5098bd256625" weightsEnabled="false">
+    <weighted-embedded-action uid="9e889d38-67fa-486c-856b-88ddfd2994eb"/>
+    <weighted-embedded-action uid="57cf9663-20af-4f4a-af02-2b7afec53d90"/>
+    <weighted-embedded-action uid="e22dca82-5014-4594-89b0-0d6fa5217b11"/>
+    <weighted-embedded-action uid="5affb515-5d54-4e66-8474-80ce12712eab"/>
+</basic-logical-action-container>

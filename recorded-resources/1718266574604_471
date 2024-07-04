@@ -1,0 +1,15 @@
+GET HeaderSet?sap-client=100&$expand=TM_Detailed_TreeSet%2CTM_DMR_DEFSet%2CTM_QH_VIEW1Set%2CTM_QV_VIEWSet%2CTM_VV_VIEWSet%2CTM_VB_VIEWSet%2CTM5_BILLCODE_TRANSFERSet%2CTM_WBS_NOT_AUTHOZDSet&$format=json HTTP/1.1
+sap-cancel-on-close: true
+mode: c
+Wbsid: C.24Y4T.044
+Startdate: 2023/01/01
+Enddate: 2023/12/31
+DTL: X
+sap-contextid-accept: header
+Accept: application/json
+x-csrf-token: LYICDHfgonPjnrBRjpa5ug==
+Accept-Language: en
+DataServiceVersion: 2.0
+MaxDataServiceVersion: 2.0
+X-Requested-With: XMLHttpRequest
+

@@ -1,0 +1,34 @@
+<virtual-user errorPolicy="GO_TO_NEXT_ITERATION"
+    failedAssertionPolicy="DO_NOTHING" slaProfileEnabled="false"
+    type="LEGACY" uid="T&amp;M App for managing Time and Material contract">
+    <init-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed once when the Virtual User starts.</description>
+    </init-container>
+    <actions-container clearUserIterationDataMode="AUTO"
+        element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements repeated until the Virtual User stops.</description>
+        <weighted-embedded-action uid="bf4862ca-eab6-481d-ac17-5c8cd225063b"/>
+        <weighted-embedded-action uid="975f9d16-f6b3-4f1b-9f83-ee181aee10f5"/>
+        <weighted-embedded-action uid="2b0badc3-556b-48bc-ac7d-4a8bcac0091e"/>
+        <weighted-embedded-action uid="dd883ce9-b43e-46ea-a9fc-f01acf34f1ba"/>
+        <weighted-embedded-action uid="06c695d0-2a4a-4cb4-a9ee-b6ce3cee5ee1"/>
+        <weighted-embedded-action uid="a8a7831e-4650-4f4a-aeb0-f6f4eec36382"/>
+        <weighted-embedded-action uid="7d2ca0d4-4c89-4714-853b-be6e9b2eb25d"/>
+        <weighted-embedded-action uid="1ced344b-c055-4fcc-8823-dc789b054dee"/>
+        <weighted-embedded-action uid="95a88b1c-1484-42a9-b7ad-86d322f5a36c"/>
+        <weighted-embedded-action uid="121a31db-ee39-4b8e-872d-5098bd256625"/>
+        <weighted-embedded-action uid="b484b7cb-c871-4ee4-922c-a1223ae96918"/>
+    </actions-container>
+    <end-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed before the Virtual User stops.</description>
+    </end-container>
+    <thinktime-policy thinkTimeMode="MODE_SIMPLE_THINK_TIME"
+        thinktimeFactorValue="100" thinktimePolicy="0"
+        thinktimeRangeValue="0" thinktimeValue="5000"/>
+</virtual-user>

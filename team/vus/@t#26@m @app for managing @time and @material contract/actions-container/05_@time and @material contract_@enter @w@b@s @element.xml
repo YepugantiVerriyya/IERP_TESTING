@@ -1,0 +1,23 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="05_Time and Material contract_Enter WBS Element" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="06c695d0-2a4a-4cb4-a9ee-b6ce3cee5ee1" weightsEnabled="false">
+    <weighted-embedded-action uid="8f054bf9-d736-4c63-912a-83e5e77a5c75"/>
+    <weighted-embedded-action uid="d75be346-4bb2-4c9a-95e6-a6cd7044381e"/>
+    <weighted-embedded-action uid="0ea47663-2b26-4c88-b700-1098c0def379"/>
+    <weighted-embedded-action uid="b49a8554-1232-4b7a-8197-f81175d1eaa1"/>
+    <weighted-embedded-action uid="5ce796f2-39db-4c34-956b-cab1a1c556af"/>
+    <weighted-embedded-action uid="74f508fb-0840-42b1-a185-f6204401c1ce"/>
+    <weighted-embedded-action uid="ab1df14d-c928-4971-8440-a49edf2e0978"/>
+    <weighted-embedded-action uid="772eaf73-af50-4fc2-8b1b-9f548c4d483e"/>
+    <weighted-embedded-action uid="b608b8df-78f4-4eff-8a2a-9e5eb73014b4"/>
+    <weighted-embedded-action uid="7c460503-989b-4f96-bebb-b85e55b85352"/>
+    <weighted-embedded-action uid="6597d834-1522-4e7f-957e-31523cb8f60b"/>
+    <weighted-embedded-action uid="ffcefbce-9850-4cc2-84e6-54831a339b7e"/>
+    <weighted-embedded-action uid="6ce10d6e-b8d1-4b53-8750-336281bbdb1f"/>
+    <weighted-embedded-action uid="c5e82e04-5ed4-4145-ba89-5b9606f3acd6"/>
+    <weighted-embedded-action uid="8360baae-bc96-4f5c-acac-f0b32a64f5b2"/>
+    <weighted-embedded-action uid="47d36460-ac81-49c4-871c-a9a2091a84ba"/>
+    <weighted-embedded-action uid="6fe232ba-803f-4fcd-82f3-0a15363884d0"/>
+    <weighted-embedded-action uid="75864b0c-9c91-42f9-810f-216019f20195"/>
+</basic-logical-action-container>

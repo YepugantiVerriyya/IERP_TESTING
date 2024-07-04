@@ -1,0 +1,20 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="04_Time and Material contract_Select Time and Material"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="dd883ce9-b43e-46ea-a9fc-f01acf34f1ba" weightsEnabled="false">
+    <weighted-embedded-action uid="3f059573-c6ee-4a10-8754-3c796a661792"/>
+    <weighted-embedded-action uid="dbe0e242-ecf7-4e59-b509-72c2801d0307"/>
+    <weighted-embedded-action uid="3942cccd-c298-4d50-b99f-d8d6161557e0"/>
+    <weighted-embedded-action uid="f69d6b98-b74d-4009-ab99-32300e53ed6f"/>
+    <weighted-embedded-action uid="69c1cff3-1819-4630-a2d9-e96a86b1d85d"/>
+    <weighted-embedded-action uid="4b4a7cf3-ee41-4556-bcad-9a786a4fbf84"/>
+    <weighted-embedded-action uid="6609b7ee-3186-4e71-848b-5bdae4942d9c"/>
+    <weighted-embedded-action uid="248b93e0-9faf-4abb-816b-860ae3227c1d"/>
+    <weighted-embedded-action uid="35396c8e-20ed-48de-8187-a1a65bd2388a"/>
+    <weighted-embedded-action uid="f65a6dad-0264-4484-b53c-8a6e854cfc2d"/>
+    <weighted-embedded-action uid="85b1bf49-b88e-48d3-8540-83dc9a54e206"/>
+    <weighted-embedded-action uid="e32109c3-ffe5-4317-8a7c-1774d40ad3fe"/>
+    <weighted-embedded-action uid="c0f76fac-aeb0-46f2-8af3-3f703214337f"/>
+    <weighted-embedded-action uid="cc8842fc-9682-4e1a-b766-88d75733fa00"/>
+</basic-logical-action-container>

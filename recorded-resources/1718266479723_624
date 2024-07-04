@@ -1,0 +1,10 @@
+GET TMS_WBS_VHSet?sap-client=100&$skip=0&$top=10&search-focus=Posid&search=C.24Y4&$select=Posid%2cVernr%2cIcnum%2cVerna%2cPoski%2cPost1%2cVbeln%2cLegal%2cBstnk%2cVkorg HTTP/1.1
+sap-cancel-on-close: true
+sap-contextid-accept: header
+Accept: application/json
+x-csrf-token: LYICDHfgonPjnrBRjpa5ug==
+Accept-Language: en
+DataServiceVersion: 2.0
+MaxDataServiceVersion: 2.0
+X-Requested-With: XMLHttpRequest
+

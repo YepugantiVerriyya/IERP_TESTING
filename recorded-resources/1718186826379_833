@@ -1,0 +1,17 @@
+--changeset_a915-7a44-140d
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST trackerSet?sap-client=100 HTTP/1.1
+sap-contextid-accept: header
+Accept: application/json
+Accept-Language: en
+DataServiceVersion: 2.0
+MaxDataServiceVersion: 2.0
+X-Requested-With: XMLHttpRequest
+Content-Type: application/json
+Content-ID: id-1718186825433-155
+Content-Length: 495
+
+{"Username":"PFTEST901","Country":"United States","Market":"Not applicable","CatalogId":"Z_BC_CEOTCOTCGBL_STS_E2E","CatalogTitle":"Z_BC_CEOTCOTCGBL_STS_E2E","OpenMethod":"Search","SpaceTitle":"","PageTitle":"","SectionTitle":"","AppName":"Time  Material","AppType":"UI5 Application","Browser":"Chrome","BrowserVersion":"125.0.0.0","YplRole":"ZBH:CEOTCOTCGBL_STS_E2E","RoleDesc":"QTC : STS End to End Specialist","Email":"dilip.karnam@in.ibm.com","Unit":"Not applicable","BspName":"ZTM4CLIENTJS"}
+--changeset_a915-7a44-140d--

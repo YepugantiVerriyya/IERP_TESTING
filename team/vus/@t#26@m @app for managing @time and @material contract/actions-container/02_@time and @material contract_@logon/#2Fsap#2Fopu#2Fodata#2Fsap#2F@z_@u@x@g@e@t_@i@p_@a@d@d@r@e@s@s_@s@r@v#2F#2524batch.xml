@@ -1,0 +1,113 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/sap/opu/odata/sap/Z_UXGET_IP_ADDRESS_SRV/%24batch"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@t#26@m @app for managing @time and @material contract/%resources%/recorded-artifacts/e143ab42-5abe-4e92-8acf-cd2ef6263b12.zip"
+    slaProfileEnabled="false" thinkTime="153"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="e143ab42-5abe-4e92-8acf-cd2ef6263b12">
+    <embedded-action>bf4fb39d-621d-4145-86b0-9510ac1985bc</embedded-action>
+    <embedded-action>0bb78259-9dc1-48c0-ba5a-247e20a668a9</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_e143ab42-5abe-4e92-8acf-cd2ef6263b12.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="multipart/mixed; boundary=E6FDA0FAEA20F61A012E5703C2AFBADE0"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="/sap/opu/odata/sap/Z_UXGET_IP_ADDRESS_SRV/$batch"
+    path="/sap/opu/odata/sap/Z_UXGET_IP_ADDRESS_SRV/$batch" postType="5"
+    recordedArtifactZipFileName="team/vus/@t#26@m @app for managing @time and @material contract/%resources%/recorded-artifacts/e143ab42-5abe-4e92-8acf-cd2ef6263b12.zip"
+    recordedResponseCode="202" responseSize="676"
+    serverUid="ierp-zc1.pce.ibm.com" slaProfileEnabled="false"
+    uid="bf4fb39d-621d-4145-86b0-9510ac1985bc" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[DQotLWJhdGNoXzY3YzAtNGVkMC1kMTVhDQpDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2h0dHANCkNvbnRlbnQtVHJhbnNmZXItRW5jb2Rpbmc6IGJpbmFyeQ0KDQpHRVQgR2V0X2hvc3RuYW1lU2V0KCkgSFRUUC8xLjENCnNhcC1jYW5jZWwtb24tY2xvc2U6IHRydWUNCnNhcC1jb250ZXh0aWQtYWNjZXB0OiBoZWFkZXINCkFjY2VwdDogYXBwbGljYXRpb24vanNvbg0KQWNjZXB0LUxhbmd1YWdlOiBlbg0KRGF0YVNlcnZpY2VWZXJzaW9uOiAyLjANCk1heERhdGFTZXJ2aWNlVmVyc2lvbjogMi4wDQpYLVJlcXVlc3RlZC1XaXRoOiBYTUxIdHRwUmVxdWVzdA0KDQoNCi0tYmF0Y2hfNjdjMC00ZWQwLWQxNWEtLQ0K]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_bf4fb39d-621d-4145-86b0-9510ac1985bc</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_bf4fb39d-621d-4145-86b0-9510ac1985bc.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://ierp-zc1.pce.ibm.com:44391/sap/bc/ui2/flp?saml2=disabled&amp;sap-client=100&amp;sap-language=EN"/>
+    <header name="x-xhr-logon" value="accept=&quot;iframe,strict-window,window&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="CoreID6=16146353121617048052922&amp;ci=51040000|IBMTESTW3; wguOptionsFileEnc=2; BMAID=4814ba2e-6ff8-4de9-b363-94416467482f; _mkto_trk=id:298-RSE-650&amp;token:_mch-ibm.com-1706685074301-58960; _hjSessionUser_42920=eyJpZCI6ImEwMjU5NTcxLWFhMGQtNTE3OS05N2M5LTg4ZjY0MWQzYjdiZSIsImNyZWF0ZWQiOjE3MDY5Njk1MjE5ODMsImV4aXN0aW5nIjp0cnVlfQ==; intercom-device-id-c4ghjqli=e177b85e-d447-468f-8cbc-d2d0393abc69; ga_visitor=Organic Search|Organic|1; _rdt_uuid=1714721316961.e3e8d0d9-8352-4d4b-b577-169725da917a; userContext=4814ba2e-6ff8-4de9-b363-94416467482f|0|0|0|IN|MH|1|2:|implied|zz|n/a|n/a|n/a|n/a; mbox=PC#4135da12ab434b4abdf3f52a51d6336b.37_0#1749110446|session#341af531d8444b088a2c9b648e0ef24e#1717576246; notice_gdpr_prefs=0|1|2:; notice_preferences=2:; cmapi_gtm_bl=; cmapi_cookie_privacy=permit_1|2|3; ajs_anonymous_id=ead48984-dc3e-49cb-8131-00c2b56a71ee; OPTOUTMULTI=0:0%7Cc1:1%7Cc2:0%7Cc3:0; AMCV_D10F27705ED7F5130A495C99%40AdobeOrg=359503849%7CMCIDTS%7C19885%7CMCMID%7C65122934319646998904057573314561984956%7CMCAAMLH-1718610973%7C12%7CMCAAMB-1718610973%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1718013373s%7CNONE%7CMCSYNCSOP%7C411-19887%7CMCCIDH%7C-527505150%7CvVersion%7C5.0.1; _ga=GA1.2.1142982883.1706685075; _uetvid=eb629040c00711ee9611a1ded2ceff73|8t3f7u|1718006174879|1|1|bat.bing.com/p/insights/c/w; _ga_FYECCCS21D=GS1.1.1718006174.11.0.1718006175.0.0.0; utag_main=v_id:018d5e5b88e8000d7075ca224bf40507d001907500978$_sn:13$_se:7$_ss:0$_st:1718007975137$is_country_requiring_explicit_consent:false$vapi_domain:ibm.com$dc_visit:10$ses_id:1718006173320%3Bexp-session$_pn:1%3Bexp-session$dc_event:6%3Bexp-session$dc_region:ap-east-1%3Bexp-session; _abck=1B8F2BB2DF7889BA29ACF978B3EBE625~0~YAAQkGrcF7gX6AiQAQAAKJuBCwziymJQG4yL9zUTzH2xOgsWodlqw0sBTALM5nPBxTnQpocAiLCyR+3m5EdJrtp6dvMJVtXYq1YXfN8ohhDM5n0dhA4Y2eIaHS9hTpySAfiO+K3F2PELPI2oAL4NZyfbxmU6BQaMvhfcSTbl8SUo1cirgyaYyckvhBPOonIRgPCyVcdyDtMYkrZYDXIGrFM07y0phNDa7MIK65ogZ9gQfiuFkPgs5dWzUTECwqTFhvPU9h+F9WPnKqaTBFpk9FnXDDOdxL7pFTp0ZWHrNCqqM45HCYPtI3N3H5zE3eaYPNIbZ+aT8WC6yT6KBRAXI95qUQAQBqAaUzP5/cKRYX1UGxASR8pQn+8ok+E=~-1~-1~-1; sap-usercontext=sap-language=EN&amp;sap-client=100; SAP_SESSIONID_ZC1_100=nAI2tFJ0DnxLnulky_ysY8aVvMEpXBHvhcH6u0gSoyA%3d; MYSAPSSO2=AjQxMDMBABhQAEYAVABFAFMAVAA5ADAAMQAgACAAIAACAAYxADAAMAADABBaAEMAMQAgACAAIAAgACAABAAYMgAwADIANAAwADYAMQAzADAAOAAxADMABQAEAAAACAYAAlgACQACRQD%2fAVYwggFSBgkqhkiG9w0BBwKgggFDMIIBPwIBATELMAkGBSsOAwIaBQAwCwYJKoZIhvcNAQcBMYIBHjCCARoCAQEwcDBkMQswCQYDVQQGEwJERTEcMBoGA1UEChMTU0FQIFRydXN0IENvbW11bml0eTETMBEGA1UECxMKU0FQIFdlYiBBUzEUMBIGA1UECxMLSTAwMjEyODc4NzUxDDAKBgNVBAMTA1pDMQIICiAjCScJKQEwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTI0MDYxMzA4MTMxMlowIwYJKoZIhvcNAQkEMRYEFKvIyEdnOGLoYGc652%2fsEXt2faLkMAkGByqGSM44BAMELjAsAhRF2EU0ElRzwOPzyZYPwlpzzlVWRwIUJEcTE8k5Sg5HuPsnHLaQhyEirbo%3d; dtCookie=v_4_srv_-2D29_sn_VE1THD3AH2HQRG782FTDDCMNGCFE1ABH; rxVisitor=1718266401448S4I6H7V1KVQGSI4KGJVSB2P968TSMU3R; rxvt=1718268201450|1718266401450; dtPC=-29$466401440_74h1vSDHCPCFNMMDHAFWGFPKPHHAGIAUOCCEE-0e0; cmTPSet=Y; 51040000_clogin=l=44036291718266401465&amp;v=3&amp;e=1718268201465"/>
+    <header name="accept-language" value="en"/>
+    <header name="origin" value="https://ierp-zc1.pce.ibm.com:44391"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="multipart/mixed"/>
+    <header name="maxdataserviceversion" value="2.0"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;125&quot;, &quot;Chromium&quot;;v=&quot;125&quot;, &quot;Not.A/Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sap-cancel-on-close" value="true"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="sap-contextid-accept" value="header"/>
+    <header name="x-requested-with" value="XMLHttpRequest"/>
+    <header name="sap-passport" value="2A54482A0300E60000756E64657465726D696E6564202020202020202020202020202020202020202000005341505F4532455F54415F557365722020202020202020202020202020202020756E64657465726D696E65645F737461727475705F302020202020202020202020202020202020200005756E64657465726D696E6564202020202020202020202020202020202020202037313843303843453832333434324336414330454332393043444445414445372020200007E0026DB60E80491CA68D1176C65AF1F50000000000000000000000000000000000000000000000E22A54482A"/>
+    <header name="content-type" value="multipart/mixed;boundary=batch_67c0-4ed0-d15a"/>
+    <header name="x-csrf-token" value="${ExtractedVariable_0}=="/>
+    <header name="dataserviceversion" value="2.0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0"/>
+    <responseHeaders>HTTP/2.0 202&#xd;
+content-type: multipart/mixed; boundary=E6FDA0FAEA20F61A012E5703C2AFBADE0&#xd;
+content-length: 351&#xd;
+dataserviceversion: 2.0&#xd;
+cache-control: no-cache, no-store, must-revalidate&#xd;
+sap-context-timeout: 180&#xd;
+sap-contextid: SID:ANON:icc1oqzc1ap05_ZC1_03:5Ua1UdRegdzyU2Qh4IN-qQ53omv5jHAxVg6HtH-q-NEW&#xd;
+sap-processing-info: ODataBEP=,crp=,RAL=,st=,MedCacheHub=,MedCacheBEP=Table,codeployed=X,softstate=&#xd;
+sap-server: true&#xd;
+sap-perf-fesrec: 38080.000000&#xd;
+content-encoding: br&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <multiparts>
+        <multipart-mimefile
+            attachedFilename="recorded-resources/1718266402488_381"
+            contentType="application/http" filename="1718266402488_381"
+            name="Part0" transferEncoding="binary"/>
+    </multiparts>
+</http-action>
+<http-action actionType="1" contentType="application/x-javascript"
+    eTag="&quot;bc6573647ae421e4cd14dcdf34c877ce:1415295155&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 06 Nov 2014 17:32:35 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/tms/51040002/cp-v3.js"
+    path="/tms/51040002/cp-v3.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@t#26@m @app for managing @time and @material contract/%resources%/recorded-artifacts/e143ab42-5abe-4e92-8acf-cd2ef6263b12.zip"
+    recordedResponseCode="200" responseSize="12"
+    serverUid="tmscdn.coremetrics.com" slaProfileEnabled="false"
+    uid="0bb78259-9dc1-48c0-ba5a-247e20a668a9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0bb78259-9dc1-48c0-ba5a-247e20a668a9</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0bb78259-9dc1-48c0-ba5a-247e20a668a9.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="__t"
+        recordRawValue="1718266401458" separator="="
+        value="1718266401458" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="tmscdn.coremetrics.com"/>
+    <header name="Referer" value="https://ierp-zc1.pce.ibm.com:44391/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;125&quot;, &quot;Chromium&quot;;v=&quot;125&quot;, &quot;Not.A/Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Type: application/x-javascript&#xd;
+ETag: "bc6573647ae421e4cd14dcdf34c877ce:1415295155"&#xd;
+Last-Modified: Thu, 06 Nov 2014 17:32:35 GMT&#xd;
+Server: AkamaiNetStorage&#xd;
+Content-Length: 12&#xd;
+Date: Thu, 13 Jun 2024 08:13:21 GMT&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

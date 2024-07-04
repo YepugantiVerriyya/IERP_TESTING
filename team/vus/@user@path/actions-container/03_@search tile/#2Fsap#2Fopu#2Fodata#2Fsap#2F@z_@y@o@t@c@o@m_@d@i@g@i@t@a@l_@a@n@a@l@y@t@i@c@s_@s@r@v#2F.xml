@@ -1,0 +1,64 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/sap/opu/odata/sap/Z_YOTCOM_DIGITAL_ANALYTICS_SRV/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/187b4d7d-6773-41b9-a608-c3dabf093ae3.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="187b4d7d-6773-41b9-a608-c3dabf093ae3">
+    <embedded-action>e435f0bf-e43d-4a81-a146-9a1f25b7d769</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_6dffa879-77c1-42e4-a761-3fcf2cfbcb6e.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="HEAD"
+    name="/sap/opu/odata/sap/Z_YOTCOM_DIGITAL_ANALYTICS_SRV/"
+    path="/sap/opu/odata/sap/Z_YOTCOM_DIGITAL_ANALYTICS_SRV/"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/187b4d7d-6773-41b9-a608-c3dabf093ae3.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ierp-zc1.pce.ibm.com" slaProfileEnabled="false"
+    uid="e435f0bf-e43d-4a81-a146-9a1f25b7d769" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e435f0bf-e43d-4a81-a146-9a1f25b7d769.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7d7b3f3a-b8ee-4a4c-996f-c1f6b70e2e89.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="sap-client"
+        recordRawValue="100" separator="=" value="100" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://ierp-zc1.pce.ibm.com:44391/sap/bc/ui2/flp?saml2=disabled&amp;sap-client=100&amp;sap-language=EN"/>
+    <header name="x-xhr-logon" value="accept=&quot;iframe,strict-window,window&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="CoreID6=56769253188517072072729&amp;ci=51040000|IBMTESTW3; wguOptionsFileEnc=2; oucfaduartwoaqsqoredfoyazuowtqwfbdxqcxf=GET%23MIIC0QYJKoZIhvcNAQcDoIICwjCCAr4CAQAxggIYMIICFAIBADB8MHAxCzAJBgNVBAYTAkRFMRwwGgYDVQQKExNTQVAgVHJ1c3QgQ29tbXVuaXR5MRMwEQYDVQQLEwpTQVAgV2ViIEFTMRQwEgYDVQQLEwtJMDAyMTI4Nzg3NTEYMBYGA1UEAwwPWkMxX1NTRkFfUzJTVlBFAggKICMQJBITATANBgkqhkiG9w0BAQEFAASCAYBAx%2fNXVpa%2fH%2f0MorqrpxDK%2b9Xj5F0BK6wFwmVqFlM4U7%2bj2S2Jw2WglqOT3naSL8ZACBa2wnYIVFt%2fSRWlKXKFioD%2bETFoEy%2bTvUHmQwDkK4%2bezfXYynpYPRnVmfVcRGCiPsKy6lAm1e7rInKgW7%2bE9DtWBt6JCZJBhmQVRpeBaHZOOApjmx4q89KJJ91WQPK7xtBu1LDsi5SCaD49kV%2bvVQuv4ynTB6TE91DH0T9nvfIqFFpgmaHySUOMzuPJCxXaU4GveRaSHy0QsQyF%2fHgt3LocxI9mYrE0AoHyKbSNu014W1URoOeH8Pkdezlx%2fh2JGiRK4Ohk1w2wF%2fig0zy03XbUP%2fTStNfsa%2fu%2bTdb%2faObMFv2KcGDXwXyWRAMpJE5DrUefrSNOJ6vETz1RkfKVbcrVE8qYUrFEuIJPd4zORaLTzxod%2bLJqFdHkRj06vzn%2bNdPxByFOVzWo1hLiBQUpYCGF0TGxJmJpSsb7NSInHCYTY5miFRvx%2bzQelb7ejywwgZwGCSqGSIb3DQEHATAdBglghkgBZQMEAQIEENU0G6S7fdNZ6%2fPZXKrw0xWAcAPjMAHuDpYaaDg7bxfxIj8szoEPUQ2uDcMfF2zjQyZNwniUs4k2aNat6CjmJNKiwkRJGAeuuARAp%2b8X%2f6s7o9izcNHbkRSj4h25jCljcXMy6uDUDEv32%2boMKWqBQJSW87%2bFBkmUpk3CeXZWbys5oDo%3d; oucfaduartwoaqsqoredfoyazuowtqwfbdxucxf=POST%23MIIDZAYJKoZIhvcNAQcDoIIDVTCCA1ECAQAxggIYMIICFAIBADB8MHAxCzAJBgNVBAYTAkRFMRwwGgYDVQQKExNTQVAgVHJ1c3QgQ29tbXVuaXR5MRMwEQYDVQQLEwpTQVAgV2ViIEFTMRQwEgYDVQQLEwtJMDAyMTI4Nzg3NTEYMBYGA1UEAwwPWkMxX1NTRkFfUzJTVlBFAggKICMQJBITATANBgkqhkiG9w0BAQEFAASCAYCGgPUyPdI7p7A3mxEqNCYE%2bn564blX0FKjdVK9AZJwn5h%2btdJw8wnlh5DelJA4quy7%2bRCTAxy4Z76h5J7ldw9V0NEPI603NN4cdQjO7nc%2bLbn64ELvBwFGY7IQ9IFURsv1%2bZDPdp9fV0ht67AM6furPUOIhI1LXu2TD9xLXUcCijWaqxNthKKAg5aZyLlwsTE1Rrpzm4kipVZ0yCxuXT1ZbHDjvzMRf2oomyO8Fn6EhOgxOoyXepsTCt3SuqnFskDUTJ6aXNZaeyPc51BJF%2f2wNVV3NiBHL40T%2fE2xSMqg9NpkJuK5ta8b%2baCp6VSWvWW3izL2Xj3dUYgrXGiVvUbE5H2BdXZRGWwCQSANODP%2f%2fPHAjRfNZKJq7eD1B%2b%2fzqxnsiLomKMUDbp3DWXGp58Tnt5cRqWMV5Vnt7va%2fOKvnQ8MldGqlJRGbg3MDQeEN0QWQM2IJKl1v1tqcvsJ4Yd9Q9K8G0iTEKZ7vdIkOZYpGu6x9CAfGgF6TncLb0M%2fJT3UwggEuBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAECBBCUNDR1uwkiskancJcCCdP2gIIBAMwGdhKL%2fDE%2fEcxjFLmitQZigLP7snWcDDOe2UEL0idiw2ffZiJ2rfhAYOjpU4Bpz7nZgQ4Vy30IWxEUtnp7D%2fnuWaPnQYENa9ijdB0TajRGz99dghfx9NiZCgvaajgDT4jJFe7tPE2NWG1TJt4CFWkQ6GgtAX8a7Kcftr9bCfEm3hR7tXc5g69EvtXhahIm8uJme%2bISPkMge%2bIXLxZLzFYljxfMXCFxFjAzvlXucmndfdaMsMugRYsOh4pLNeAdM94LlmQws80rpBG%2f04XfpEgRhXuUiozh%2bWFOKbs0ElUDSEh%2bfTSXwVXFWbGHbhZY2fPg4sNh1Y3fGc7x%2bCKQrHY%3d; sap-usercontext=sap-language=EN&amp;sap-client=100; SAP_SESSIONID_ZC1_100=6W1cEnxSUwdPVPd5BBPCuGfNAdEooxHvpov6v9M5kyA%3d; MYSAPSSO2=AjQxMDMBABhQAEYAVABFAFMAVAA5ADAAMQAgACAAIAACAAYxADAAMAADABBaAEMAMQAgACAAIAAgACAABAAYMgAwADIANAAwADYAMQAyADEAMAAwADYABQAEAAAACAYAAlgACQACRQD%2fAVYwggFSBgkqhkiG9w0BBwKgggFDMIIBPwIBATELMAkGBSsOAwIaBQAwCwYJKoZIhvcNAQcBMYIBHjCCARoCAQEwcDBkMQswCQYDVQQGEwJERTEcMBoGA1UEChMTU0FQIFRydXN0IENvbW11bml0eTETMBEGA1UECxMKU0FQIFdlYiBBUzEUMBIGA1UECxMLSTAwMjEyODc4NzUxDDAKBgNVBAMTA1pDMQIICiAjCScJKQEwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTI0MDYxMjEwMDYxNlowIwYJKoZIhvcNAQkEMRYEFIuCXWgL3lWuL9MJb%2fxb4tlBiuetMAkGByqGSM44BAMELjAsAhRJJtOTeLeBksuFWwauplthtWxJrQIUdJOFAglKVi342hjhqjQbIz1oecE%3d"/>
+    <header name="accept-language" value="en"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="application/json"/>
+    <header name="maxdataserviceversion" value="2.0"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;125&quot;, &quot;Chromium&quot;;v=&quot;125&quot;, &quot;Not.A/Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sap-cancel-on-close" value="true"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="sap-contextid-accept" value="header"/>
+    <header name="x-requested-with" value="XMLHttpRequest"/>
+    <header name="sap-passport" value="2A54482A0300E60000756E64657465726D696E6564202020202020202020202020202020202020202000005341505F4532455F54415F557365722020202020202020202020202020202020756E64657465726D696E65645F737461727475705F302020202020202020202020202020202020200005756E64657465726D696E6564202020202020202020202020202020202020202039464135364541383630324434334535424638353836333245413345343146422020200007300F52D8ACC04803986AFE8F3D3EAC900000000000000000000000000000000000000000000000E22A54482A"/>
+    <header name="content-type" value="application/json"/>
+    <header name="x-csrf-token" value="Fetch"/>
+    <header name="dataserviceversion" value="2.0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/html&#xd;
+Content-Length: 0&#xd;
+x-csrf-token: SucYTFgL24JY7DK_VJqfkw==&#xd;
+dataserviceversion: 2.0&#xd;
+cache-control: no-store, no-cache, must-revalidate, max-age=0, post-check=0, pre-check=0&#xd;
+pragma: no-cache&#xd;
+expires: Tue, 03 Jul 2001 06:00:00 GMT&#xd;
+sap-processing-info: ODataBEP=,crp=,RAL=,st=,MedCacheHub=,codeployed=,softstate=&#xd;
+sap-server: true&#xd;
+sap-perf-fesrec: 6488.000000&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,4 @@
+<variable-file delimiters="," filename="variables/ZBRE_Test_ID.csv" name="ZBRE_Test User" offset="1" order="1" policy="5" range="1" uid="343b30d2-cf0e-448f-b5e9-9ecb86034f3c" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="ID" number="0"/>
+<column name="Password" number="1"/>
+</variable-file>

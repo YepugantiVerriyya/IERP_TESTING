@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="02_Log_On" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="5522d246-8c8e-4dbd-b28f-1a50edd37596" weightsEnabled="false">
+    <weighted-embedded-action uid="36a7982c-25e1-40a0-aceb-b4f5bc3f00c4"/>
+    <weighted-embedded-action uid="1fa48f5b-d1f5-4a32-9593-c62c39b69a2a"/>
+    <weighted-embedded-action uid="fbd56fa7-0c8c-4221-b5c7-3aed4f76a149"/>
+    <weighted-embedded-action uid="6dc345a2-8c48-48ac-ae7c-9b1a08d1e8e0"/>
+    <weighted-embedded-action uid="7ca289c0-f216-4266-971f-5c11686cc92e"/>
+</basic-logical-action-container>
